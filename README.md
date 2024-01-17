@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Soft&text=LEESOJIN&color=6495ED&height=150&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Soft&text=LEESOJIN&color=ffffff&height=150&fontSize=90&fontColor=000000)
 
 #
 <br/>
