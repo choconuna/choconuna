@@ -44,7 +44,7 @@
 <br/>
 
 ####  📫 EMAIL 📫
-<a href="mailto:dlthwls0110@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoGmail&logoColor=white" ></a>
+dlthwls0110@gmail.com
 
 <br/>
 <br/>
